@@ -14,9 +14,9 @@ servidorExpress.get("/sobre", function (req, res) {
 });
 
 //Usando paramentros
-servidorExpress.get('/oi/:nome/:sobrenome', function(req, res){
-     res.end(req.params);
-});
+servidorExpress.get("/oi/:nome/:sobrenome", function(req, res){
+     res.end("Eai parametros + req.params: " + req.params);
+})
    
 
 //Melhor que essa linha esteja sempre no final mesmo.
