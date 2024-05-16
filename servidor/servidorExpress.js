@@ -6,16 +6,16 @@ const servidorExpress = express();
 
 //Rotas
 servidorExpress.get("/", function (req, res) {
-    res.end("Servidor express");
+    res.send("Servidor express");
 });
 
 servidorExpress.get("/sobre", function (req, res) {
-    res.end("Esse servidor foi construido com framework principal de node pra backend");
+    res.send("Esse servidor foi construido com framework principal de node pra backend");
 });
 
-//Usando paramentros
+//Usando paramentros Atraves do object req podemos obter dados da requisição que foi feita, inclusive parametros.
 servidorExpress.get("/oi/:nome/:sobrenome", function(req, res){
-     res.end("Eai parametros + req.params: " + req.params);
+     res.send("Eai parametros + req.params: " + req.params.nome);
 })
    
 
