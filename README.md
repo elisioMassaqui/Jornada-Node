@@ -4,7 +4,7 @@
 Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma jornada detalhada e repleta de aprendizado sobre o desenvolvimento de aplicativos backend com Node.js. Ao longo deste repositório, compartilho minha exploração de tecnologias essenciais como HTTP, MongoDB com Mongoose, Express, e MySQL, enquanto construo uma compreensão sólida do desenvolvimento de backend.
 
 ## Jornada:
-- [Guia Definitivo Express(Montando um servidor)](https://github.com/elisioMassaqui/Jornada-Node/commit/81062c836ebaaf0b0bb0197a1cd8889550524bf5)
+- [Guia Definitivo Express(Montando um servidor)](https://github.com/elisioMassaqui/Jornada-Node/blob/main/Guia%20Definitivo%20Express.md)
 - [Guia Definitivo Nodemon(reiniciando automaticamente o servidor)](https://github.com/elisioMassaqui/Jornada-Node/blob/main/Guia%20de%20Nodemon%20Definitivo.md)
 
 ## Visão Geral:
