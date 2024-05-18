@@ -41,7 +41,7 @@ HTTP/1.1 200 OK
 Content-Type: text/html
 Content-Length: 137
 
-```html
+```http
 <!DOCTYPE html>
 <html>
 <head>
