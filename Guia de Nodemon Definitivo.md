@@ -111,4 +111,4 @@ nodemon --inspect src/app.js
 
 🔗 Recursos Adicionais
 
-Para mais informações e opções de configuração, consulte a documentação oficial do Nodemon.
+Para mais informações e opções de configuração, consulte a documentação oficial do Nodemon
