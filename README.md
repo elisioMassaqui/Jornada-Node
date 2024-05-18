@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma jornada deta
 
 ## Jornada:
 - [Anotações](https://github.com/elisioMassaqui/Jornada-Node/blob/main/anota%C3%A7%C3%B5es.md)
+- [Servidor](https://github.com/elisioMassaqui/Jornada-Node/tree/main/servidor)
 
 - [Guia Definitivo Express(Montando um servidor)](https://github.com/elisioMassaqui/Jornada-Node/blob/main/Guia%20Definitivo%20Express.md)
 - [Primeiro exemplo de rotas](https://github.com/elisioMassaqui/Jornada-Node/tree/main/calculadoraJS)
