@@ -41,7 +41,7 @@ HTTP/1.1 200 OK
 Content-Type: text/html
 Content-Length: 137
 
-```html
+```http
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +56,7 @@ Content-Length: 137
 📊 Códigos de Status HTTP
 Os códigos de status HTTP indicam o resultado da requisição:
 
-```bash
+```http
 1xx: Informacional
 100 Continue
 2xx: Sucesso

@@ -7,6 +7,7 @@ Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma jornada deta
 - [Anotações](https://github.com/elisioMassaqui/Jornada-Node/blob/main/anota%C3%A7%C3%B5es.md)
 - [Servidor](https://github.com/elisioMassaqui/Jornada-Node/tree/main/servidor)
 
+- [Sobre HTTP](https://github.com/elisioMassaqui/Jornada-Node/blob/main/HTTP.md)
 - [Guia Definitivo Express(Montando um servidor)](https://github.com/elisioMassaqui/Jornada-Node/blob/main/Guia%20Definitivo%20Express.md)
 - [Primeiro exemplo de rotas](https://github.com/elisioMassaqui/Jornada-Node/tree/main/calculadoraJS)
 - [Guia Definitivo Nodemon(reiniciando automaticamente o servidor)](https://github.com/elisioMassaqui/Jornada-Node/blob/main/Guia%20de%20Nodemon%20Definitivo.md)
