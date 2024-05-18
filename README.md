@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma jornada deta
 
 ## Jornada:
 - [Anotações](https://github.com/elisioMassaqui/Jornada-Node/blob/main/anota%C3%A7%C3%B5es.md)
+- [Módulos](https://github.com/elisioMassaqui/Jornada-Node/blob/main/modulos.md)
 - [Servidor](https://github.com/elisioMassaqui/Jornada-Node/tree/main/servidor)
 
 - [Sobre HTTP](https://github.com/elisioMassaqui/Jornada-Node/blob/main/HTTP.md)
