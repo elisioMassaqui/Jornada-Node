@@ -1,7 +1,7 @@
 //Pegar modulo express
 const express = require("express");
 
-//Instancia do servidor
+//Instancia do servidor.
 const servidorExpress = express();
 
 //Porta:
