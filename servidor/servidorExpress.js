@@ -4,6 +4,9 @@ const express = require("express");
 //Instancia do servidor
 const servidorExpress = express();
 
+//Porta:
+const port = 8081;
+
 //Rotas
 servidorExpress.get("/", function (req, res) {
     res.send("Servidofhgfrrrr express");
@@ -20,4 +23,4 @@ servidorExpress.get("/oi/:nome/:sobrenome", function(req, res){
    
 
 //Melhor que essa linha esteja sempre no final mesmo.
-servidorExpress.listen(8081, function(){console.log("Express aberto com sucesso");});
+servidorExpress.listen(port, function(){console.log(`Express aberto com sucesso, clique aqui: >> http://localhost:${port}`);});
