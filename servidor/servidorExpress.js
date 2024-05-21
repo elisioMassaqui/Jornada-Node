@@ -9,7 +9,7 @@ const port = 8081;
 
 //Rotas
 servidorExpress.get("/", function (req, res) {
-    res.send("Servidofhgfrrrr express");
+    res.sendFile(__dirname + "/html/index.html");
 });
 
 servidorExpress.get("/sobre", function (req, res) {
